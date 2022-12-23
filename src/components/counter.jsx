@@ -13,10 +13,10 @@ class Counter extends Component {
                 <div className="col-1">
                     <span className={this.getBadgeClasses()}>{this.formatCount()}</span>
                 </div>
-                <div className="col">
-                    <button onClick={this.props.onIncrement} className='btn btn-secondary btn-sm'>+</button>
-                    <button onClick={this.props.onDecrement} className='btn btn-secondary btn-sm m-2' disabled={(this.props.counter.value <= 0) ? 'disabled' : ''} >-</button>
-                    <button onClick={this.props.onDelete} className='btn btn-danger btn-sm '>Delete</button>
+                <div className="col mx-3">
+                    <button onClick={this.props.onIncrement} className='btn btn-secondary m-2'>Increment</button>
+                    <button onClick={this.props.onDecrement} className='btn btn-secondary m-2 btn-sm' disabled={(this.props.counter.value <= 0) ? 'disabled' : ''} >Decrement</button>
+                    <button onClick={this.props.onDelete} className='btn btn-danger btn-sm'>Delete</button>
                 </div>
             </div>
         );
