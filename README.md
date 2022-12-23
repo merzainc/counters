@@ -1,10 +1,10 @@
 # Counters App - simple react counters app.
 
-To view app demo click here, [Counters App](https://merzainc.github.io/cunters).
+To view app demo click here, [Counters App](https://merzainc.github.io/counters).
 
 ## Getting Started
 
-Clone this repo and run `npm install`, and below are available scripts:
+Clone this repo and run `npm install` and below are available scripts:
 
 ### `npm start`
 
@@ -40,6 +40,9 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 - [x] Increment value of a counter
 - [x] Decrement value of a counter
 - [x] Reset all counters value
+- [x] Updated to BS v5, React v18.2.0 
+
+This project was done to grasp all concepts around components, props, and other react features required to build modern software.
 
 
 
