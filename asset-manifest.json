@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/counters/static/css/main.738f730d.css",
-    "main.js": "/counters/static/js/main.fd12662c.js",
+    "main.js": "/counters/static/js/main.149a3ea0.js",
     "static/js/787.5863b875.chunk.js": "/counters/static/js/787.5863b875.chunk.js",
     "static/media/merzaui-webfont.woff2": "/counters/static/media/merzaui-webfont.6421c9784e4e639b4209.woff2",
     "index.html": "/counters/index.html",
     "main.738f730d.css.map": "/counters/static/css/main.738f730d.css.map",
-    "main.fd12662c.js.map": "/counters/static/js/main.fd12662c.js.map",
+    "main.149a3ea0.js.map": "/counters/static/js/main.149a3ea0.js.map",
     "787.5863b875.chunk.js.map": "/counters/static/js/787.5863b875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.738f730d.css",
-    "static/js/main.fd12662c.js"
+    "static/js/main.149a3ea0.js"
   ]
 }
